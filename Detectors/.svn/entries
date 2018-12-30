@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="510"
+   name=""
+   committed-date="2006-10-21T04:32:30.747139Z"
+   url="http://www.athens.cameocontrol.com/svn/trunk/AD/Detectors"
+   last-author="jason"
+   kind="dir"
+   repos="http://www.athens.cameocontrol.com/svn"
+   revision="721"/>
+<entry
+   committed-rev="510"
+   name="OffScreenDetector.cs"
+   text-time="2006-10-21T04:28:23.726272Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="5ff02a615bc7ca29cc63cb72713c68d6"
+   last-author="jason"
+   kind="file"/>
+<entry
+   committed-rev="510"
+   name="CollisionDetector.cs"
+   text-time="2006-10-21T04:28:31.827921Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="23f90935779984881c508239a44c958e"
+   last-author="jason"
+   kind="file"/>
+</wc-entries>

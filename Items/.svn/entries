@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="510"
+   name=""
+   committed-date="2006-10-21T04:32:30.747139Z"
+   url="http://www.athens.cameocontrol.com/svn/trunk/AD/Items"
+   last-author="jason"
+   kind="dir"
+   repos="http://www.athens.cameocontrol.com/svn"
+   revision="721"/>
+<entry
+   committed-rev="510"
+   name="Collision.cs"
+   text-time="2006-10-21T04:28:23.966617Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="6a82bf27ed406026db6c64cfa981a395"
+   last-author="jason"
+   kind="file"/>
+<entry
+   committed-rev="510"
+   name="Score.cs"
+   text-time="2006-10-21T04:28:22.234126Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="30304e9b6b3a34126b4384f43abf1d83"
+   last-author="jason"
+   kind="file"/>
+<entry
+   committed-rev="510"
+   name="Health.cs"
+   text-time="2006-10-21T04:28:24.136862Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="f7d4fdd17df6c8911ab7eede410371c7"
+   last-author="jason"
+   kind="file"/>
+<entry
+   committed-rev="510"
+   name="Missile.cs"
+   text-time="2006-10-21T04:28:23.155451Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="3f540b7c8035021e475b2e346e77aa01"
+   last-author="jason"
+   kind="file"/>
+<entry
+   committed-rev="510"
+   name="Gun.cs"
+   text-time="2006-10-21T04:28:24.056747Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="fe9e44eb0d73c6f2d10235352be13a6b"
+   last-author="jason"
+   kind="file"/>
+<entry
+   committed-rev="510"
+   name="Block.cs"
+   text-time="2006-10-21T04:28:23.886502Z"
+   committed-date="2006-10-21T04:32:30.747139Z"
+   checksum="23ad3a9af42551175f4c6eb5e135d1c1"
+   last-author="jason"
+   kind="file"/>
+</wc-entries>
